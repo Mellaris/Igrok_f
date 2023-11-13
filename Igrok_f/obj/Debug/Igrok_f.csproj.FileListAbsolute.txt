@@ -1,0 +1,8 @@
+D:\Igrok_f\bin\Debug\Igrok_f.exe.config
+D:\Igrok_f\bin\Debug\Igrok_f.exe
+D:\Igrok_f\bin\Debug\Igrok_f.pdb
+D:\Igrok_f\obj\Debug\Igrok_f.csproj.AssemblyReference.cache
+D:\Igrok_f\obj\Debug\Igrok_f.csproj.SuggestedBindingRedirects.cache
+D:\Igrok_f\obj\Debug\Igrok_f.csproj.CoreCompileInputs.cache
+D:\Igrok_f\obj\Debug\Igrok_f.exe
+D:\Igrok_f\obj\Debug\Igrok_f.pdb
