@@ -48,7 +48,7 @@ namespace Igrok_f
             koll = kol;
             Perem();
         }
-        public void Info_2()
+        private void Info_2()
         {
             name_2 = "Саша";
             Random rdn = new Random();
@@ -65,7 +65,7 @@ namespace Igrok_f
             }
             kol_2 = 10;
         }
-        public void Print()
+        private void Print()
         {
             Console.WriteLine($"Название персонажа: {name}");
             Console.WriteLine($"x = {x}");
