@@ -1,0 +1,8 @@
+D:\Igrok_final_2\bin\Debug\Igrok_final_2.exe.config
+D:\Igrok_final_2\bin\Debug\Igrok_final_2.exe
+D:\Igrok_final_2\bin\Debug\Igrok_final_2.pdb
+D:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.AssemblyReference.cache
+D:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.SuggestedBindingRedirects.cache
+D:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.CoreCompileInputs.cache
+D:\Igrok_final_2\obj\Debug\Igrok_final_2.exe
+D:\Igrok_final_2\obj\Debug\Igrok_final_2.pdb
