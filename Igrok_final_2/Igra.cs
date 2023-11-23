@@ -187,8 +187,8 @@ namespace Igrok_final_2
                         Console.WriteLine("Бой окончен!");
                         if (help > help_2)
                         {
-                            dead_igrok.Add(igroki.Find(a => a.kol < this.kol));
-                            igroki.Remove(dead_igrok.Find(a => a.kol < this.kol));
+                            dead_igrok.Add(igroki.Find(a => a.kol == 0 || a.kol < 0));
+                            igroki.Remove(igroki.Find(a => a.kol == 0 || a.kol < 0));
                             Console.WriteLine("Вы победили!");
                             Console.ReadKey();
                             Console.Clear();
