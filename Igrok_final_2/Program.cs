@@ -11,9 +11,11 @@ namespace Igrok_final_2
         static void Main(string[] args)
         {
             List<Igra> igroki = new List<Igra>();
-            List <Igra> dead_igrok = new List<Igra>();
+            List<Igra> dead_igrok = new List<Igra>();
+            List<Igra> Vragi = new List<Igra>();
+            List<Igra> Friend = new List<Igra>();
             Igra play = new Igra();
-            play.Plays(igroki, dead_igrok, play);
+            play.Plays(igroki, dead_igrok, play, Vragi, Friend);
         }
     }
 }
