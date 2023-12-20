@@ -13,3 +13,4 @@ E:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.AssemblyReference.cache
 E:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.CoreCompileInputs.cache
 E:\Igrok_final_2\obj\Debug\Igrok_final_2.exe
 E:\Igrok_final_2\obj\Debug\Igrok_final_2.pdb
+E:\Igrok_final_2\obj\Debug\Igrok_final_2.csproj.SuggestedBindingRedirects.cache

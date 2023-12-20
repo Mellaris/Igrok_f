@@ -191,9 +191,9 @@ namespace Igrok_final_2
         {
             Raspred(igroki, Vragi, Friend);
             int count = Vragi.Count;
-            Console.WriteLine(count);
+            Console.WriteLine($"Количество врагов: {count}");
             int count_2 = Friend.Count;
-            Console.WriteLine(count_2);
+            Console.WriteLine($"Количество союзников: {count_2}");
             while (help_3 == 0)
             {
                 foreach (Igra ydar in Friend)
